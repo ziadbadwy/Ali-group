@@ -1781,6 +1781,10 @@
         .main-slider__content {
             text-align: center;
         }
+        .card{
+            margin-bottom: 20px;
+
+        }
     }
 
 
